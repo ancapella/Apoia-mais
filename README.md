@@ -115,14 +115,20 @@ A utilização do Scrum tem como objetivo:
 
 ---
 
-## 📁 Documentação
+## 📚 Documentação e Protótipo
 
-A documentação do projeto será organizada em arquivos separados, incluindo:
+A documentação do projeto e o protótipo interativo estão disponíveis nos links abaixo.
 
-- 📊 Fluxograma do sistema
-- 🔄 Diagrama de sequência
-- 🎨 Protótipo da interface
-- 📋 Documentação complementar
+### 🎨 Protótipo
+
+[**🔗 Acessar protótipo interativo no Figma**](https://cycle-spring-73919187.figma.site/)
+
+
+### 📊 Diagramas
+
+* [**🔄 Fluxograma**](https://github.com/ancapella/Apoia-mais/blob/main/fluxograma.md) — fluxo principal de funcionamento do sistema.
+* [**📨 Diagrama de Sequência**](https://github.com/ancapella/Apoia-mais/blob/main/diagramasequencia.md) — interação entre usuários, sistema e banco de dados.
+* [**👥 Diagrama de Casos de Uso**](https://github.com/ancapella/Apoia-mais/blob/main/diagramacasos.md) — principais funcionalidades disponíveis para cada tipo de usuário.
 
 ---
 
@@ -130,7 +136,7 @@ A documentação do projeto será organizada em arquivos separados, incluindo:
 
 🟡 **Em desenvolvimento**
 
-Projeto acadêmico desenvolvido como parte das atividades do curso de Análise e Desenvolvimento de Sistemas.
+Projeto acadêmico desenvolvido como parte das atividades do curso de Análise e Desenvolvimento de Sistemas da Fatec Araraquara.
 
 ---
 
