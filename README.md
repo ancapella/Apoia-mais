@@ -8,7 +8,7 @@ A plataforma tem como objetivo facilitar o acesso a pequenos serviços e tarefas
 
 ---
 
-🎯 Objetivo
+# # 🎯 Objetivo
 
 Criar uma plataforma simples e acessível que facilite a conexão entre pessoas que precisam de ajuda e voluntários dispostos a contribuir com seu tempo e suas habilidades.
 
@@ -24,9 +24,9 @@ Exemplos de solicitações
 
 ---
 
-👥 Tipos de usuário
+# 👥 Tipos de usuário
 
-🧓 Pessoa Assistida
+## 🧓 Pessoa Assistida
 
 A pessoa assistida pode:
 
@@ -39,7 +39,7 @@ A pessoa assistida pode:
 - Acompanhar suas solicitações;
 - Encerrar uma solicitação.
 
-🙋 Voluntário
+## 🙋 Voluntário
 
 O voluntário pode:
 
