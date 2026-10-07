@@ -53,6 +53,31 @@ O voluntário pode:
 
 ---
 
+## 🧑‍💻 Engenharia de Software
+
+
+O desenvolvimento do Apoia+ será realizado utilizando a metodologia ágil Scrum.
+
+O Scrum foi escolhido por permitir um desenvolvimento organizado e incremental, possibilitando que as funcionalidades sejam desenvolvidas e avaliadas ao longo do projeto.
+
+📋 **Organização do desenvolvimento**
+
+O projeto será dividido em Sprints, com cada Sprint tendo um conjunto de atividades e funcionalidades a serem desenvolvidas.
+
+Durante o desenvolvimento serão realizadas:
+
+🎯 **Objetivo do uso do Scrum**
+
+A utilização do Scrum tem como objetivo:
+
+- Organizar as atividades da equipe;
+- Dividir o projeto em pequenas entregas;
+- Facilitar o acompanhamento do desenvolvimento;
+- Identificar problemas durante o projeto;
+- Permitir melhorias contínuas;
+- Entregar as funcionalidades de forma incremental.
+
+
 ## ⚙️ Funcionalidades
 
 - 🔐 Cadastro e login de usuários
