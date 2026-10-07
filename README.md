@@ -26,7 +26,7 @@ Criar uma plataforma simples e acessível que facilite a conexão entre pessoas 
 
 ## 👥 Tipos de usuário
 
-** 🧓 Pessoa Assistida
+ 🧓 **Pessoa Assistida**
 
 A pessoa assistida pode:
 
@@ -39,7 +39,7 @@ A pessoa assistida pode:
 - Acompanhar suas solicitações;
 - Encerrar uma solicitação.
 
-** 🙋 Voluntário
+🙋 **Voluntário**
 
 O voluntário pode:
 
