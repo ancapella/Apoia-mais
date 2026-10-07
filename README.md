@@ -8,11 +8,11 @@ A plataforma tem como objetivo facilitar o acesso a pequenos serviços e tarefas
 
 ---
 
-# # 🎯 Objetivo
+## 🎯 Objetivo
 
 Criar uma plataforma simples e acessível que facilite a conexão entre pessoas que precisam de ajuda e voluntários dispostos a contribuir com seu tempo e suas habilidades.
 
-Exemplos de solicitações
+**Exemplos de solicitações
 
 - 🔧 Pequenos reparos domésticos
 - 💡 Troca de lâmpadas
@@ -24,9 +24,9 @@ Exemplos de solicitações
 
 ---
 
-# 👥 Tipos de usuário
+## 👥 Tipos de usuário
 
-## 🧓 Pessoa Assistida
+** 🧓 Pessoa Assistida
 
 A pessoa assistida pode:
 
@@ -39,7 +39,7 @@ A pessoa assistida pode:
 - Acompanhar suas solicitações;
 - Encerrar uma solicitação.
 
-## 🙋 Voluntário
+** 🙋 Voluntário
 
 O voluntário pode:
 
@@ -53,7 +53,7 @@ O voluntário pode:
 
 ---
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - 🔐 Cadastro e login de usuários
 - 👤 Gerenciamento de perfil
@@ -66,31 +66,31 @@ O voluntário pode:
 
 ---
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
-Front-end
+**Front-end
 
 - HTML5
 - CSS3
 - JavaScript
 
-Back-end
+**Back-end
 
 - Python
 - Flask
 
-Banco de dados
+**Banco de dados
 
 - SQLite
 
-Versionamento
+**Versionamento
 
 - Git
 - GitHub
 
 ---
 
-📁 Documentação
+##📁 Documentação
 
 A documentação do projeto será organizada em arquivos separados, incluindo:
 
@@ -101,7 +101,7 @@ A documentação do projeto será organizada em arquivos separados, incluindo:
 
 ---
 
-📌 Status do projeto
+## 📌 Status do projeto
 
 🟡 Em desenvolvimento
 
